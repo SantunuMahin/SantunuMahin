@@ -17,23 +17,23 @@
 - Databases: `MySQL`, `SQLITE`, `PostgreSQL`  
 - Tools & Platforms: `Docker`, `Git`, `VS Code`, `Linux`  
 
-## 🌎 Connect with Me
+## 🌎 Connect with Me  
 
-<div align="center">
-  <a href="https://github.com/SantunuMahin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/santunu-kaysar-mahin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://santunumahin.github.io/SK/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
+<div align="center" style="background: linear-gradient(to right, #6a11cb, #2575fc); padding: 20px; border-radius: 10px;">  
+  <h2 style="color: white; font-family: 'Arial', sans-serif;">Connect with Me</h2>  
+  <a href="https://github.com/SantunuMahin" target="_blank">  
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />  
+  </a>  
+  <a href="https://www.linkedin.com/in/santunu-kaysar-mahin" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />  
+  </a>  
+  <a href="https://santunumahin.github.io/SK/" target="_blank">  
+    <img src="https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />  
+  </a>  
+  <p style="color: white; font-size: 18px; font-family: 'Arial', sans-serif;">  
+    <strong>Explore my work and connect with me!</strong>  
+  </p>  
 </div>
-
-<p align="center">
-  <strong>Explore my work and connect with me!</strong>
-</p>
 
 ## 🔥 GitHub Stats  
 ![SantunuMahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantunuMahin&show_icons=true&theme=radical)  
