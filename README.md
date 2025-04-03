@@ -17,23 +17,23 @@
 - Databases: `MySQL`, `SQLITE`, `PostgreSQL`  
 - Tools & Platforms: `Docker`, `Git`, `VS Code`, `Linux`  
 
-## 🌎 Connect with Me  
-<p align="center">
-  <a href="https://github.com/SantunuMahin">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="150"/>
-  </a>  
-  <a href="https://www.linkedin.com/in/santunu-kaysar-mahin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" width="150"/>
-  </a>  
-  <a href="https://santunumahin.github.io/SK/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" width="150"/>
+## 🌎 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/SantunuMahin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/santunu-kaysar-mahin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://santunumahin.github.io/SK/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 <p align="center">
-  <em>Feel free to reach out to me through these platforms!</em>
+  <strong>Explore my work and connect with me!</strong>
 </p>
-
 
 ## 🔥 GitHub Stats  
 ![SantunuMahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantunuMahin&show_icons=true&theme=radical)  
