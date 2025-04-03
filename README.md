@@ -17,10 +17,10 @@
 - Databases: `MySQL`, `SQLITE`, `PostgreSQL`  
 - Tools & Platforms: `Docker`, `Git`, `VS Code`, `Linux`  
 
-## 🌎 Connect with Me  
+<!--## 🌎 Connect with Me  -->
 
 <div align="center">  
-  <h2>Connect with Me</h2>  
+  <h2>🌎 Connect with Me</h2>  
   <a href="https://github.com/SantunuMahin" target="_blank">  
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />  
   </a>  
