@@ -18,9 +18,18 @@
 - Tools & Platforms: `Docker`, `Git`, `VS Code`, `Linux`  
 
 ## 🌎 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantunuMahin)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santunu-kaysar-mahin)  
-[Portfolio](https://santunumahin.github.io/SK/)
+<p align="center">
+  <a href="https://github.com/SantunuMahin">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>  
+  <a href="https://www.linkedin.com/in/santunu-kaysar-mahin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>  
+  <a href="https://santunumahin.github.io/SK/">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
 ## 🔥 GitHub Stats  
 ![SantunuMahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantunuMahin&show_icons=true&theme=radical)  
 
