@@ -20,15 +20,20 @@
 ## 🌎 Connect with Me  
 <p align="center">
   <a href="https://github.com/SantunuMahin">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="150"/>
   </a>  
   <a href="https://www.linkedin.com/in/santunu-kaysar-mahin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" width="150"/>
   </a>  
   <a href="https://santunumahin.github.io/SK/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" width="150"/>
   </a>
 </p>
+
+<p align="center">
+  <em>Feel free to reach out to me through these platforms!</em>
+</p>
+
 
 ## 🔥 GitHub Stats  
 ![SantunuMahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantunuMahin&show_icons=true&theme=radical)  
