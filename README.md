@@ -19,35 +19,19 @@
 
 ## 🌎 Connect with Me  
 
-<div align="center" style="background: linear-gradient(to right, #6a11cb, #2575fc); padding: 20px; border-radius: 10px; transition: transform 0.3s ease-in-out;">  
-  <h2 style="color: white; font-family: 'Arial', sans-serif;">Connect with Me</h2>  
-
-  <style>
-    .icon-link {
-      margin: 10px;
-      transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    }
-
-    .icon-link:hover {
-      transform: scale(1.1);
-      box-shadow: 0px 0px 12px rgba(255, 255, 255, 0.8);
-    }
-  </style>
-
-  <a class="icon-link" href="https://github.com/SantunuMahin" target="_blank">  
+<div align="center">  
+  <h2>Connect with Me</h2>  
+  <a href="https://github.com/SantunuMahin" target="_blank">  
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />  
   </a>  
-  <a class="icon-link" href="https://www.linkedin.com/in/santunu-kaysar-mahin" target="_blank">  
+  <a href="https://www.linkedin.com/in/santunu-kaysar-mahin" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />  
   </a>  
-  <a class="icon-link" href="https://santunumahin.github.io/SK/" target="_blank">  
+  <a href="https://santunumahin.github.io/SK/" target="_blank">  
     <img src="https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />  
   </a>  
+</div>  
 
-  <p style="color: white; font-size: 18px; font-family: 'Arial', sans-serif;">  
-    <strong>Explore my work and connect with me!</strong>  
-  </p>  
-</div>
 
 ## 🔥 GitHub Stats  
 ![SantunuMahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantunuMahin&show_icons=true&theme=radical)  
