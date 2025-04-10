@@ -1,21 +1,21 @@
 # 🌟 Welcome to My GitHub Profile! 🌟  
 
-👋 Hi, I’m **@SantunuMahin**, an aspiring developer with a passion for technology, collaboration, and creativity!  
+👋 Hi, I’m **@SantunuMahin**, an aspiring developer passionate about technology, collaboration, and creativity!  
 
 ## 🚀 About Me  
-- 🎯 I’m interested in **software development, AI, web technologies, and open-source projects**.  
-- 📚 Currently learning **advanced programming concepts, cloud computing, and machine learning**.  
+- 🎯 I’m interested in **software Design, development, AI, web technologies, and open-source projects**.  
+- 📚 Currently learning **advanced programming concepts, Data Structure and Algorithm**.  
 - 🤝 Looking to collaborate on **exciting projects, hackathons, and open-source initiatives**.  
 - 📬 How to reach me: **[LinkedIn](https://www.linkedin.com/in/santunu-kaysar-mahin) | [Email](mailto:santunukaysarmahin@gmail.com) | [Portfolio](https://santunumahin.github.io/SK/)**
 
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love exploring new tech trends and playing video games in my free time!**  
+- ⚡ Fun fact: **I love exploring new tech trends and Reading Books!**  
 
 ## 💻 Tech Stack  
-- Programming Languages: `Python`, `JavaScript`, `C++`, `Java`  
-- Web Development: `React.js`, `Django`, `HTML5`, `CSS3`  
-- Databases: `MySQL`, `SQLITE`, `PostgreSQL`  
-- Tools & Platforms: `Docker`, `Git`, `VS Code`, `Linux`  
+- Programming Languages:  `C++`, `Java`, `Python(Basic)`, `JavaScript(Basic)`,
+- Web Development: ` Django`, `HTML5`, `CSS3`, `JavaScript(Web Dev)`  
+- Databases: `MySQL`, `SQLITE`,
+- Tools & Platforms: `Docker`, `Git`, `VS Code`,  
 
 <!--## 🌎 Connect with Me  -->
 
@@ -40,4 +40,4 @@
 - 💡 "Talk is cheap. Show me the code." - **Linus Torvalds**  
 - 📖 Favorite Books: **Clean Code, The Pragmatic Programmer, and You Don’t Know JS**  
 
-✨ Thanks for visiting my profile! Feel free to explore my repositories and let's build something amazing together! 🚀  
+✨ Thanks for visiting my profile! Feel free to explore my repositories, and let's build something amazing together! 🚀  
