@@ -1,9 +1,11 @@
 # 🌟 Welcome to My GitHub Profile! 🌟  
 
-👋 Hi, I’m **@SantunuMahin**, an aspiring developer passionate about technology, collaboration, and creativity!  
+👋 Hi, I’m **@SantunuMahin**, an aspiring developer passionate about technology, collaboration,
+   and creativity!  
 
 ## 🚀 About Me  
-- 🎯 I’m interested in **software Design, development, AI, web technologies, and open-source projects**.  
+- 🎯 I’m interested in **software Design, development, AI, web technologies, and open-source
+     projects**.  
 - 📚 Currently learning **advanced programming concepts, Data Structure and Algorithm**.  
 - 🤝 Looking to collaborate on **exciting projects, hackathons, and open-source initiatives**.  
 - 📬 How to reach me: **[LinkedIn](https://www.linkedin.com/in/santunu-kaysar-mahin) | [Email](mailto:santunukaysarmahin@gmail.com) | [Portfolio](https://santunumahin.github.io/SK/)**
@@ -18,9 +20,17 @@
 - Tools & Platforms: `Docker`, `Git`, `VS Code`,  
 
 ## 🧑‍💻 My Projects
-  * ServerCodeSociety
- 
+  * ServerCodeSociety *
+  * ServerCodeSociety – My first dynamic web project where I applied my technical expertise
+    to develop innovative solutions for programmers and problem solvers. This project consists
+    of three core components:
+  * Frontend: Developed using HTML, CSS, and JavaScript to create a user-friendly interface.
+  * Backend: Built with Python and Django, focusing on robust functionality, scalability,
+    and clean architecture.
+  * Database: Implemented using SQLite integrated with Django's ORM to manage data efficiently
+    and securely.
 
+    
 <div align="center">  
   <h2>🌎 Connect with Me</h2>  
   <a href="https://github.com/SantunuMahin" target="_blank">  
