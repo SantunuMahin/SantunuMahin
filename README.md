@@ -17,7 +17,7 @@
 - Databases: `MySQL`, `SQLITE`,
 - Tools & Platforms: `Docker`, `Git`, `VS Code`,  
 
-<!--## <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 466 466" style="enable-background:new 0 0 466 466;" xml:space="preserve">
+ <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 466 466" style="enable-background:new 0 0 466 466;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:url(#SVGID_1_);}
 </style>
@@ -49,7 +49,7 @@
 	c-26.5,0-48-21.5-48-48s21.5-48,48-48s48,21.5,48,48C388.4,166.6,366.9,188.1,340.4,188.1z M390.5,298h56v16h-56V298z M377.4,352.1
 	l10.2-12.3l48,40l-10.2,12.3L377.4,352.1z M342.5,362h16v56h-16V362z M4.6,138.2l64-16l3.9,15.5l-64,16L4.6,138.2z M17.8,56.5
 	l9.3-13l56,40l-9.3,13L17.8,56.5z M86.4,4l15.5-4l16.4,64l-15.5,4L86.4,4z"></path>
-</svg> Connect with Me  -->
+</svg> Connect with Me  
 
 <div align="center">  
   <h2>🌎 Connect with Me</h2>  
