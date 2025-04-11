@@ -20,7 +20,7 @@
 - Tools & Platforms: `Docker`, `Git`, `VS Code`,  
 
 ## 🧑‍💻 My Projects
-### ServerCodeSociety | [link](https://servercodesociety.pythonanywhere.com/)
+### ⚙️ ServerCodeSociety | [link](https://servercodesociety.pythonanywhere.com/)
   * ServerCodeSociety – My first dynamic web project where I applied my technical expertise
     to develop innovative solutions for programmers and problem solvers. This project consists
     of three core components:
