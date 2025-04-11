@@ -17,8 +17,8 @@
 - Databases: `MySQL`, `SQLITE`,
 - Tools & Platforms: `Docker`, `Git`, `VS Code`,  
 
-##🧑‍💻 My Projects
-  *ServerCodeSociety
+## 🧑‍💻 My Projects
+  * ServerCodeSociety
  
 
 <div align="center">  
