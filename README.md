@@ -17,11 +17,11 @@
 - Programming Languages:  `C++`, `Java`, `Python(Basic)`, `JavaScript(Basic)`,
 - Web Development: ` Django`, `HTML5`, `CSS3`, `JavaScript(Web Dev)`  
 - Databases: `MySQL`, `SQLITE`,
-- Tools & Platforms: `Docker`, `Git`, `VS Code`,  
+- Tools & Platforms: `Docker(basic)`, `Git`, `VS Code` 
 
 ## 🧑‍💻 My Projects
 ### ⚙️ ServerCodeSociety | [link](https://servercodesociety.pythonanywhere.com/)
-  * ServerCodeSociety – My first dynamic web project where I applied my technical expertise
+  * ServerCodeSociety – My first dynamic web project, where I applied my technical expertise
     to develop innovative solutions for programmers and problem solvers. This project consists
     of three core components:
     
@@ -48,9 +48,5 @@
 
 ## 🔥 GitHub Stats  
 ![SantunuMahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantunuMahin&show_icons=true&theme=radical)  
-
-## 🎨 Fun Stuff  
-- 💡 "Talk is cheap. Show me the code." - **Linus Torvalds**  
-- 📖 Favorite Books: **Clean Code, The Pragmatic Programmer, and You Don’t Know JS**  
 
 ✨ Thanks for visiting my profile! Feel free to explore my repositories, and let's build something amazing together! 🚀  
