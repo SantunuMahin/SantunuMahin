@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 - 🎯 I’m interested in **software Design, development, AI, web technologies, and open-source
      projects**.  
-- 📚 Currently learning **advanced programming concepts, Data Structure and Algorithm**.  
+- 📚 Currently learning **advanced programming concepts, Data Structure, and Algorithm**.  
 - 🤝 Looking to collaborate on **exciting projects, hackathons, and open-source initiatives**.  
 - 📬 How to reach me: **[LinkedIn](https://www.linkedin.com/in/santunu-kaysar-mahin) | [Email](mailto:santunukaysarmahin@gmail.com) | [Portfolio](https://santunumahin.github.io/SK/)**
 
