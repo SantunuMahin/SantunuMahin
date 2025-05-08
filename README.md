@@ -46,7 +46,10 @@
 </div>  
 
 
-## 🔥 GitHub Stats  
-![SantunuMahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantunuMahin&show_icons=true&theme=radical)  
+## 🔥 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantunuMahin&show_icons=true&theme=radical" alt="SantunuMahin's GitHub stats" />
+</div>
+
 
 ✨ Thanks for visiting my profile! Feel free to explore my repositories, and let's build something amazing together! 🚀  
