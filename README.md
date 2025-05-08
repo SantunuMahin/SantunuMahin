@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 🌟  
 
-👋 Hi, I’m **@SantunuMahin**, an aspiring developer passionate about technology, collaboration,
+👋 Hi, I’m **@SantunuMahin**, an aspiring Software engineer passionate about technology, collaboration,
    and creativity!  
 
 ## 🚀 About Me  
