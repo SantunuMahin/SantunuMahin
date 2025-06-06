@@ -8,7 +8,7 @@
      projects**.  
 - 📚 Currently learning **advanced programming concepts, Data Structure, and Algorithm**.  
 - 🤝 Looking to collaborate on **exciting projects, hackathons, and open-source initiatives**.  
-- 📬 How to reach me: **[LinkedIn](https://www.linkedin.com/in/santunu-kaysar-mahin) | [Email](mailto:santunukaysarmahin@gmail.com) | [Portfolio](https://santunumahin.github.io/SK/)**
+- 📬 How to reach me: **[LinkedIn](https://www.linkedin.com/in/santunu-kaysar-mahin) | [Email](mailto:santunukaysarmahin@gmail.com) | [Portfolio](https://mskm.pythonanywhere.com/)**
 
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I love exploring new tech trends and Reading Books!**  
@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/santunu-kaysar-mahin" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />  
   </a>  
-  <a href="https://santunumahin.github.io/SK/" target="_blank">  
+  <a href="https://mskm.pythonanywhere.com/" target="_blank">  
     <img src="https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />  
   </a>  
 </div>  
