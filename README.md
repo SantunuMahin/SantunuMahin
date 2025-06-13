@@ -1,7 +1,6 @@
-# Santunu Kaysar Mahin - Portfolio Repository
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00ABA9&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Competitive+Programmer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00ABA9&center=true&vCenter=true&width=500&lines=I'M Santunu Kaysar Mahin;Full-Stack+Developer;Competitive+Programmer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing Animation" />
 </div>
 
 ## 📌 Repository Overview
@@ -15,9 +14,6 @@ This repository serves as:
 ## 🚀 Quick Links
 
 <p align="center">
-  <a href="https://github.com/SantunuMahin?tab=repositories">
-    <img src="https://img.shields.io/badge/-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://mskm.pythonanywhere.com/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
