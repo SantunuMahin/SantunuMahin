@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00ABA9&center=true&vCenter=true&width=500&lines=I'M Santunu Kaysar Mahin;Full-Stack+Developer;Competitive+Programmer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00ABA9&center=true&vCenter=true&width=500&lines=I'M+Santunu+Kaysar+Mahin;Full-Stack+Developer;Competitive+Programmer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing Animation" />
 </div>
 
 ## 📌 Repository Overview
