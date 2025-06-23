@@ -59,8 +59,8 @@ A dynamic platform for programmers featuring:
 - Code sharing functionality
 - Responsive web design
 
-### CodeForces Solutions
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantunuMahin/CodeForces)
+### LeetCode Solutions
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantunuMahin/Daily_Problem.git)
 
 Collection of:
 - 150+ solved problems
