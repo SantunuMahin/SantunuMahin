@@ -87,50 +87,55 @@
 
 <div align="center">
 
-```javascript
-const santunu = {
-    pronouns: "He/Him",
-    status: "Open for Opportunities",
-    specialization: ["Web Architecture", "DSA", "Scalable Systems"],
-    currentFocus: "Advanced System Design & Performance Optimization",
-    techStack: ["JavaScript/TypeScript", "Node.js", "React", "AWS", "Docker"],
-    funFact: "I debug production issues faster than I cook instant noodles! ⚡",
-    hobbies: ["Coding Challenges", "Tech Blogging", "Open Source"]
-};
+### 🚀 **Always Open for Exciting Opportunities & Collaborations**
 
-const collaborate = async ({ project, tech, challenge }) => {
-    const connection = await santunu.initiateHandshake();
-    
-    if (project.includes("innovative") || challenge.includes("complex")) {
-        connection.send({
-            email: "santunukaysarmahin@gmail.com",
-            linkedin: "https://linkedin.com/in/santunu",
-            github: "https://github.com/santunu",
-            availability: "Always excited for impactful collaborations! 🚀"
-        });
-    }
-};
+---
 
-// Let's build something amazing together!
-if (you.seekingCollaborator || you.haveCoolIdea) {
-    collaborate({
-        project: your.idea,
-        tech: your.stack,
-        challenge: your.problem
-    });
-}
-</div><div align="center">
-📫 Reach out: santunukaysarmahin@gmail.com
-💼 LinkedIn: linkedin.com/in/santunu
-💻 GitHub: github.com/santunu
-🌐 Portfolio: santunu.dev (hypothetical)
+### 🎯 **Specialization & Focus**
+**Web Architecture** • **Data Structures & Algorithms** • **Scalable Systems**  
+**Advanced System Design** • **Performance Optimization**
 
-"Turning complex problems into elegant solutions — one line at a time."
+---
+
+### 🛠️ **Tech Stack**
+**JavaScript/TypeScript** • **Node.js** • **React** • **AWS** • **Docker** • **Microservices**
+
+---
+
+### 📫 **Get in Touch**
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 25px 0;">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santunukaysarmahin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santunu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santunu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://santunu.dev)
 
 </div>
- ```
 
-<a href="https://leetcode.com/u/santunukaysarmahin/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack"/></a> <a href="https://www.hackerrank.com/profile/santunukaysarma1"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HackerRank-00EA64%3Fstyle%3Dfor-the-badge%26logo%3Dhackerrank%26logoColor%3Dblack"/></a>
+---
+
+### 🏆 **Coding Profiles**
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/santunukaysarmahin/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/santunukaysarma1)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/santunu)
+
+</div>
+
+---
+
+### 💡 **Fun Fact**
+> "I debug production issues faster than I cook instant noodles! ⚡"
+
+### 🌟 **Current Mission**
+> "Turning complex problems into elegant solutions — one line at a time."
+
+---
+
+**Let's build something amazing together!** 🚀
 
 </div>
 
