@@ -85,19 +85,17 @@
 
 ## 🤝 Let's Connect
 <div align="center">
-
 ```javascript
-        const santunu = {
-          status: "Open for Opportunities",
-          specialization: ["Web Architecture", "DSA"],
-          currentFocus: "Advanced System Design",
-          funFact: "I debug code faster than I cook instant noodles!"
-        };
-        
-        if (you.wantToCollaborate()) {
-          santunu.contact('santunukaysarmahin@gmail.com');
-        }
-```
+  const santunu = {
+    status: "Open for Opportunities",
+    specialization: ["Web Architecture", "DSA"],
+    currentFocus: "Advanced System Design",
+    funFact: "I debug code faster than I cook instant noodles!"
+  };
+
+  if (you.wantToCollaborate()) {
+    santunu.contact('santunukaysarmahin@gmail.com');
+}```
 <a href="https://leetcode.com/u/santunukaysarmahin/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack"/></a> <a href="https://www.hackerrank.com/profile/santunukaysarma1"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HackerRank-00EA64%3Fstyle%3Dfor-the-badge%26logo%3Dhackerrank%26logoColor%3Dblack"/></a>
 
 </div>
