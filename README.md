@@ -1,211 +1,332 @@
 <div align="center">
   <!-- Animated Header with Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ABA9,50:0078D7,100:00ABA9&height=220&section=header&text=SANTUNU%20MAHIN&fontSize=70&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=FULL%20STACK%20ENGINEER%20%7C%20ALGORITHMIC%20THINKER&descSize=20&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18,24&height=280&section=header&text=SANTUNU%20MAHIN&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Problem%20Solver%20%7C%20System%20Architect&descSize=25&descAlignY=55" width="100%"/>
+  
+  <!-- Dynamic Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Systems+%F0%9F%9A%80;Solving+Complex+Algorithms+%F0%9F%A7%A0;Crafting+Elegant+Code+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing Animation" />
+  
+  <br><br>
   
   <!-- Status Badges -->
-  <div align="center">
-    <a href="https://leetcode.com/u/SantunuMahin/">
-      <img src="https://img.shields.io/badge/LeetCode-150%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" alt="LeetCode" />
-    </a>
-    <a href="https://github.com/SantunuMahin?tab=repositories">
-      <img src="https://img.shields.io/badge/Projects-20%2B-00ABA9?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-    </a>
-    <a href="https://www.linkedin.com/in/santunu-kaysar-mahin">
-      <img src="https://img.shields.io/badge/Open_To_Opportunities-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me" />
-    </a>
-  </div>
-  
-  <!-- Animated Typing -->
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=00ABA9&center=true&vCenter=true&width=550&lines=System.architect();+Debug.resolve();+Algorithm.optimize();+Code.deploy();+Repeat()" alt="Typing SVG" />
+  <a href="https://leetcode.com/u/SantunuMahin/">
+    <img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/SantunuMahin?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-20%2B%20Built-00ABA9?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+  <a href="https://www.linkedin.com/in/santunu-kaysar-mahin">
+    <img src="https://img.shields.io/badge/Open%20To-Opportunities-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Opportunities" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SantunuMahin&label=Profile%20Views&color=00ABA9&style=for-the-badge" alt="Profile Views" />
 </div>
+
+<br>
 
 ---
 
-## 🧠 **About Me**
+## 👨‍💻 **About Me**
 
 ```python
-class FullStackDeveloper:
+class FullStackEngineer:
     def __init__(self):
-        self.name = "Santunu Mahin"
+        self.name = "Santunu Kaysar Mahin"
         self.role = "Full Stack Engineer"
-        self.focus = ["Backend Architecture", "Algorithm Design", "System Scaling"]
-        self.languages = ["Python", "C++", "JavaScript", "Java"]
-        self.frameworks = ["Django", "React", "Bootstrap"]
-        self.databases = ["PostgreSQL", "MySQL", "Redis"]
+        self.location = "Bangladesh 🇧🇩"
+        self.education = "Computer Science & Engineering"
         
+        self.technical_focus = {
+            "backend": ["System Design", "API Architecture", "Database Optimization"],
+            "algorithms": ["Dynamic Programming", "Graph Theory", "Data Structures"],
+            "devops": ["Docker", "CI/CD", "Cloud Infrastructure"]
+        }
+        
+        self.current_stack = {
+            "languages": ["Python", "C++", "JavaScript", "Java", "TypeScript"],
+            "frameworks": ["Django", "FastAPI", "React", "Next.js"],
+            "databases": ["PostgreSQL", "MySQL", "Redis", "MongoDB"],
+            "tools": ["Docker", "Git", "AWS", "Nginx"]
+        }
+    
+    def current_focus(self):
+        return [
+            "🎯 Mastering system design patterns",
+            "🔥 Daily LeetCode challenges",
+            "🚀 Building production-grade applications",
+            "📚 Contributing to open source"
+        ]
+    
     def philosophy(self):
-        return "Build scalable solutions, write clean algorithms, solve real problems"
-    
-    def daily_routine(self):
-        return ["LeetCode Challenge", "Code Review", "Architecture Design", "Open Source"]
-    
-dev = FullStackDeveloper()
+        return """
+        Code with purpose. Build with passion. 
+        Optimize relentlessly. Learn continuously.
+        """
+
+# Initialize
+engineer = FullStackEngineer()
+print(f"Welcome to {engineer.name}'s GitHub Profile! 🚀")
 ```
 
+<div align="center">
+  
+### 🎯 **Current Focus**
+  
+| 🌟 Goal | 📊 Status | 🔗 Link |
+|---------|-----------|---------|
+| **LeetCode Mastery** | 150+ Problems Solved | [Profile](https://leetcode.com/u/SantunuMahin/) |
+| **System Design** | Learning Advanced Patterns | [Projects](https://github.com/SantunuMahin?tab=repositories) |
+| **Open Source** | Active Contributor | [Contributions](https://github.com/SantunuMahin) |
+| **Full Stack Projects** | 20+ Live Projects | [Portfolio](https://github.com/SantunuMahin) |
+
+</div>
+
 ---
 
-## 📈 **Performance Metrics**
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SantunuMahin&theme=radical" width="100%" />
+</div>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <!-- GitHub Stats with Customization -->
-        <img src="https://github-readme-stats.vercel.app/api?username=SantunuMahin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&custom_title=GitHub+Analytics" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=SantunuMahin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Statistics" width="100%" />
       </td>
       <td width="50%">
-        <!-- Language Stats -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantunuMahin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css,scss" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <!-- Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantunuMahin&theme=radical&hide_border=true&background=0D1117&dates=00ABA9&fire=00ABA9&ring=00ABA9" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantunuMahin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=html,css" width="100%" />
       </td>
     </tr>
   </table>
 </div>
 
----
-
-## 🛠 **Tech Stack Radar**
-
-### Core Competencies
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&theme=dark&perline=8" />
-</div>
-
-### Tools & Platforms
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,prometheus&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantunuMahin&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" width="100%" />
 </div>
 
 ---
 
-## 🏆 **Featured Projects**
+## 🛠️ **Technology Stack**
+
+<div align="center">
+
+### **Languages**
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,bash&theme=dark" />
+
+### **Frontend Development**
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
+
+### **Backend Development**
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express&theme=dark" />
+
+### **Databases**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" />
+
+### **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,nginx,linux&theme=dark" />
+
+### **Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,vim,githubactions&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 **Featured Projects**
 
 <div align="center">
   <table>
     <tr>
-      <!-- ServerCodeSociety -->
       <td width="50%">
         <h3 align="center">🌐 ServerCodeSociety</h3>
-        <a href="https://github.com/SantunuMahin/ServerCodeSociety">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantunuMahin&repo=ServerCodeSociety&theme=radical&hide_border=true&show_owner=false&bg_color=0D1117" />
-        </a>
-        <p align="center"><em>Full-stack developer community platform</em></p>
         <div align="center">
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+          <a href="https://github.com/SantunuMahin/ServerCodeSociety" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantunuMahin&repo=ServerCodeSociety&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+          </a>
         </div>
+        <p align="center">
+          <em>A comprehensive developer community platform with real-time features</em>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </p>
+        <p align="center">
+          ⭐ User Authentication • 💬 Real-time Chat • 📝 Code Sharing • 🔍 Advanced Search
+        </p>
       </td>
-      
-      <!-- Algorithm Vault -->
       <td width="50%">
         <h3 align="center">🧠 Algorithm Vault</h3>
-        <a href="https://github.com/SantunuMahin/Daily_Problem">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantunuMahin&repo=Daily_Problem&theme=radical&hide_border=true&show_owner=false&bg_color=0D1117" />
-        </a>
-        <p align="center"><em>Daily DSA problem solutions</em></p>
         <div align="center">
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+          <a href="https://github.com/SantunuMahin/Daily_Problem" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantunuMahin&repo=Daily_Problem&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+          </a>
         </div>
+        <p align="center">
+          <em>Daily DSA solutions with detailed explanations and complexity analysis</em>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        </p>
+        <p align="center">
+          📈 150+ Solutions • 🎯 Multiple Approaches • ⏱️ Time/Space Analysis
+        </p>
       </td>
     </tr>
   </table>
 </div>
 
----
-
-## 📊 **Coding Activity**
-
-<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SantunuMahin&theme=radical&hide_border=true" width="100%" />
+  <a href="https://github.com/SantunuMahin?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
 </div>
 
-<!-- Contribution Snake -->
+---
+
+## 📈 **Contribution Activity**
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantunuMahin/SantunuMahin/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantunuMahin/SantunuMahin/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SantunuMahin/SantunuMahin/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/SantunuMahin/SantunuMahin/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
----
-
-## 🏅 **Achievements**
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SantunuMahin&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantunuMahin&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF" width="100%" />
 </div>
 
 ---
 
-## 📫 **Connect With Me**
+## 🏆 **Achievements & Trophies**
 
 <div align="center">
-  <!-- Professional Links -->
+  <img src="https://github-profile-trophy.vercel.app/?username=SantunuMahin&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" width="100%" />
+</div>
+
+<div align="center">
+  
+### 💡 **Coding Stats**
+
+| Metric | Value |
+|--------|-------|
+| **Total Problems Solved** | 150+ |
+| **Active Days** | 200+ |
+| **Repositories** | 20+ |
+| **Contributions (2024)** | 500+ |
+| **Languages Mastered** | 5+ |
+
+</div>
+
+---
+
+## 📝 **Latest Blog Posts & Articles**
+
+<div align="center">
+
+Coming Soon! 📚
+
+🔜 System Design Patterns for Scalable Applications  
+🔜 Optimizing Database Queries: A Deep Dive  
+🔜 Building Production-Ready APIs with Django  
+
+</div>
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+  
   <a href="https://www.linkedin.com/in/santunu-kaysar-mahin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:santunukaysarmahin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/SantunuMahin/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" />
+    <img src="https://img.shields.io/badge/LeetCode-Follow%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://github.com/SantunuMahin">
-    <img src="https://img.shields.io/badge/Portfolio-View-00ABA9?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
 
-<br>
+  <br><br>
 
-<div align="center">
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=SantunuMahin&label=PROFILE+VIEWS&color=00ABA9&style=for-the-badge&labelColor=0D1117" />
+  ### 💼 **Open for Opportunities**
+  
+  🚀 Full Stack Development  
+  🏗️ Backend Architecture  
+  🧩 Problem Solving & Algorithms  
+  🤝 Open Source Collaboration  
+  
+  <br>
+  
+  **📧 Email:** santunukaysarmahin@gmail.com  
+  **🌍 Location:** Chittagong, Bangladesh  
+  **⏰ Timezone:** GMT+6  
+
 </div>
 
 ---
 
-<!-- Footer Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+### 💭 **Random Dev Quote**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br><br>
+
+### 🎯 **My Coding Philosophy**
+
+```javascript
+const philosophy = {
+  code: "Write code that speaks for itself",
+  design: "Build systems that scale effortlessly",
+  learn: "Every bug is a lesson, every feature is growth",
+  collaborate: "Great software is built by great teams"
+};
+
+console.log("Let's build something amazing together! 🚀");
+```
+
 </div>
+
+---
+
+<div align="center">
+
+**⚡ Fun Fact:** I debug with `console.log()` and I'm not ashamed of it! 😄
 
 <br>
 
-<div align="center">
-  <code style="background: #0D1117; padding: 10px 20px; border-radius: 5px; border-left: 3px solid #00ABA9;">
-    <em>"First, solve the problem. Then, write the code." - John Johnson</em>
-  </code>
-</div>
+### 📊 **This Week I Spent My Time On**
+
+```text
+Python       ████████████░░░░░░░░░   60%
+JavaScript   ████░░░░░░░░░░░░░░░░░   20%
+SQL          ██░░░░░░░░░░░░░░░░░░░   10%
+Other        ██░░░░░░░░░░░░░░░░░░░   10%
+```
 
 <br>
 
-<!-- Terminal-style Footer -->
-<div align="center" style="font-family: 'JetBrains Mono', monospace; color: #00ABA9;">
-  <code>
-    $ echo "Thanks for visiting!" && date<br>
-    > Looking for collaboration on innovative projects.
-  </code>
-</div>
+---
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ABA9,50:0078D7,100:00ABA9&height=120&section=footer" width="100%"/>
+<sub>⭐ **From [SantunuMahin](https://github.com/SantunuMahin)** with 💙</sub>
+
+<sub>**Last Updated:** Auto-synced with GitHub Actions ⚡</sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18,24&height=150&section=footer" width="100%"/>
 
 </div>
