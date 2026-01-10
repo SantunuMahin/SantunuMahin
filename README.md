@@ -84,18 +84,52 @@
 ---
 
 ## 🤝 Let's Connect
-<div align="center">
-```javascript
-  const santunu = {
-    status: "Open for Opportunities",
-    specialization: ["Web Architecture", "DSA"],
-    currentFocus: "Advanced System Design",
-    funFact: "I debug code faster than I cook instant noodles!"
-  };
 
-  if (you.wantToCollaborate()) {
-    santunu.contact('santunukaysarmahin@gmail.com');
-}```
+<div align="center">
+
+```javascript
+const santunu = {
+    pronouns: "He/Him",
+    status: "Open for Opportunities",
+    specialization: ["Web Architecture", "DSA", "Scalable Systems"],
+    currentFocus: "Advanced System Design & Performance Optimization",
+    techStack: ["JavaScript/TypeScript", "Node.js", "React", "AWS", "Docker"],
+    funFact: "I debug production issues faster than I cook instant noodles! ⚡",
+    hobbies: ["Coding Challenges", "Tech Blogging", "Open Source"]
+};
+
+const collaborate = async ({ project, tech, challenge }) => {
+    const connection = await santunu.initiateHandshake();
+    
+    if (project.includes("innovative") || challenge.includes("complex")) {
+        connection.send({
+            email: "santunukaysarmahin@gmail.com",
+            linkedin: "https://linkedin.com/in/santunu",
+            github: "https://github.com/santunu",
+            availability: "Always excited for impactful collaborations! 🚀"
+        });
+    }
+};
+
+// Let's build something amazing together!
+if (you.seekingCollaborator || you.haveCoolIdea) {
+    collaborate({
+        project: your.idea,
+        tech: your.stack,
+        challenge: your.problem
+    });
+}
+</div><div align="center">
+📫 Reach out: santunukaysarmahin@gmail.com
+💼 LinkedIn: linkedin.com/in/santunu
+💻 GitHub: github.com/santunu
+🌐 Portfolio: santunu.dev (hypothetical)
+
+"Turning complex problems into elegant solutions — one line at a time."
+
+</div>
+ ```
+
 <a href="https://leetcode.com/u/santunukaysarmahin/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack"/></a> <a href="https://www.hackerrank.com/profile/santunukaysarma1"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HackerRank-00EA64%3Fstyle%3Dfor-the-badge%26logo%3Dhackerrank%26logoColor%3Dblack"/></a>
 
 </div>
