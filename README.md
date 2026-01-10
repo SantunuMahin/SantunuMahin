@@ -285,22 +285,19 @@ Coming Soon! 📚
 
 <br><br>
 
-### 🎯 **My Coding Philosophy**
+### 🎯 My Coding Philosophy
 
 ```javascript
 const philosophy = {
-  code: "Write code that speaks for itself",
-  design: "Build systems that scale effortlessly",
-  learn: "Every bug is a lesson, every feature is growth",
-  collaborate: "Great software is built by great teams"
+  code: "Write clean, readable, and self-explanatory code",
+  design: "Build scalable and maintainable systems",
+  learning: "Every bug is a lesson, every feature is growth",
+  collaboration: "Great software is built by great teams",
+  mindset: "Simplicity, efficiency, and long-term impact"
 };
 
-console.log("Let's build something amazing together! 🚀");
+console.log("Let’s build meaningful software together 🚀");
 ```
-
-</div>
-
----
 
 <div align="center">
 
