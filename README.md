@@ -166,27 +166,19 @@ const santunu = {
   },
   funFact: "I solve LeetCode problems daily!"
 };
+</div>
+📊 Profile Statistics
+<div align="center">
+https://komarev.com/ghpvc/?username=SantunuMahin&label=Profile%2520Views&color=00D4AA&style=flat-square
+https://img.shields.io/github/followers/SantunuMahin?label=Followers&style=flat-square&color=00D4AA
+https://img.shields.io/github/stars/SantunuMahin?affiliations=OWNER%252CCOLLABORATOR&label=Total%2520Stars&style=flat-square&color=00D4AA
+https://img.shields.io/github/commit-activity/m/SantunuMahin?label=Monthly%2520Commits&style=flat-square&color=00D4AA
+
+</div>
+<div align="center">
+⭐️ "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn
+
+</div>
 ```
-
-</div>
-
-## 📊 Profile Statistics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SantunuMahin&label=Profile%20Views&color=00D4AA&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/SantunuMahin?label=Followers&style=flat-square&color=00D4AA)
-![GitHub Stars](https://img.shields.io/github/stars/SantunuMahin?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat-square&color=00D4AA)
-![Contributions](https://img.shields.io/github/commit-activity/m/SantunuMahin?label=Monthly%20Commits&style=flat-square&color=00D4AA)
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
-
-</div>
