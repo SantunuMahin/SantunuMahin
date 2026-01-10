@@ -1,7 +1,7 @@
 # 🚀 Santunu Kaysar Mahin
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18,24&height=280&section=header&text=SANTUNU%20MAHIN&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Problem%20Solver%20%7C%20System%20Architect&descSize=25&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18,24&height=280&section=header&text=Santunu%20Kaysar&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Problem%20Solver%20%7C%20System%20Architect&descSize=25&descAlignY=55" width="100%"/>
 
   <table>
     <tr>
