@@ -1,13 +1,10 @@
 <div align="center">
-  <!-- Animated Header with Gradient -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18,24&height=280&section=header&text=SANTUNU%20MAHIN&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Problem%20Solver%20%7C%20System%20Architect&descSize=25&descAlignY=55" width="100%"/>
   
-  <!-- Dynamic Typing Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Systems+%F0%9F%9A%80;Solving+Complex+Algorithms+%F0%9F%A7%A0;Crafting+Elegant+Code+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing Animation" />
   
   <br><br>
   
-  <!-- Status Badges -->
   <a href="https://leetcode.com/u/SantunuMahin/">
     <img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" alt="LeetCode" />
   </a>
@@ -25,46 +22,6 @@
 ---
 
 ## 👨‍💻 **About Me**
-
-```python
-class FullStackEngineer:
-    def __init__(self):
-        self.name = "Santunu Kaysar Mahin"
-        self.role = "Full Stack Engineer"
-        self.location = "Bangladesh 🇧🇩"
-        self.education = "Computer Science & Engineering"
-        
-        self.technical_focus = {
-            "backend": ["System Design", "API Architecture", "Database Optimization"],
-            "algorithms": ["Dynamic Programming", "Graph Theory", "Data Structures"],
-            "devops": ["Docker", "CI/CD", "Cloud Infrastructure"]
-        }
-        
-        self.current_stack = {
-            "languages": ["Python", "C++", "JavaScript", "Java", "TypeScript"],
-            "frameworks": ["Django", "FastAPI", "React", "Next.js"],
-            "databases": ["PostgreSQL", "MySQL", "Redis", "MongoDB"],
-            "tools": ["Docker", "Git", "AWS", "Nginx"]
-        }
-    
-    def current_focus(self):
-        return [
-            "🎯 Mastering system design patterns",
-            "🔥 Daily LeetCode challenges",
-            "🚀 Building production-grade applications",
-            "📚 Contributing to open source"
-        ]
-    
-    def philosophy(self):
-        return """
-        Code with purpose. Build with passion. 
-        Optimize relentlessly. Learn continuously.
-        """
-
-# Initialize
-engineer = FullStackEngineer()
-print(f"Welcome to {engineer.name}'s GitHub Profile! 🚀")
-```
 
 <div align="center">
   
@@ -154,7 +111,7 @@ print(f"Welcome to {engineer.name}'s GitHub Profile! 🚀")
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         </p>
         <p align="center">
-          ⭐ User Authentication • 💬 Real-time Chat • 📝 Code Sharing • 🔍 Advanced Search
+          ⭐ User Auth • 💬 Real-time Chat • 📝 Code Sharing
         </p>
       </td>
       <td width="50%">
@@ -165,7 +122,7 @@ print(f"Welcome to {engineer.name}'s GitHub Profile! 🚀")
           </a>
         </div>
         <p align="center">
-          <em>Daily DSA solutions with detailed explanations and complexity analysis</em>
+          <em>Daily DSA solutions with detailed explanations and analysis</em>
         </p>
         <p align="center">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -174,7 +131,7 @@ print(f"Welcome to {engineer.name}'s GitHub Profile! 🚀")
           <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         </p>
         <p align="center">
-          📈 150+ Solutions • 🎯 Multiple Approaches • ⏱️ Time/Space Analysis
+          📈 150+ Solutions • 🎯 Time/Space Analysis
         </p>
       </td>
     </tr>
@@ -195,12 +152,8 @@ print(f"Welcome to {engineer.name}'s GitHub Profile! 🚀")
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantunuMahin/SantunuMahin/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantunuMahin/SantunuMahin/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/SantunuMahin/SantunuMahin/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/SantunuMahin/SantunuMahin/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantunuMahin&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF" width="100%" />
 </div>
 
 ---
@@ -209,34 +162,6 @@ print(f"Welcome to {engineer.name}'s GitHub Profile! 🚀")
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SantunuMahin&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" width="100%" />
-</div>
-
-<div align="center">
-  
-### 💡 **Coding Stats**
-
-| Metric | Value |
-|--------|-------|
-| **Total Problems Solved** | 150+ |
-| **Active Days** | 200+ |
-| **Repositories** | 20+ |
-| **Contributions (2024)** | 500+ |
-| **Languages Mastered** | 5+ |
-
-</div>
-
----
-
-## 📝 **Latest Blog Posts & Articles**
-
-<div align="center">
-
-Coming Soon! 📚
-
-🔜 System Design Patterns for Scalable Applications  
-🔜 Optimizing Database Queries: A Deep Dive  
-🔜 Building Production-Ready APIs with Django  
-
 </div>
 
 ---
@@ -254,24 +179,10 @@ Coming Soon! 📚
   <a href="https://leetcode.com/u/SantunuMahin/">
     <img src="https://img.shields.io/badge/LeetCode-Follow%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://github.com/SantunuMahin">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 
   <br><br>
 
-  ### 💼 **Open for Opportunities**
-  
-  🚀 Full Stack Development  
-  🏗️ Backend Architecture  
-  🧩 Problem Solving & Algorithms  
-  🤝 Open Source Collaboration  
-  
-  <br>
-  
-  **📧 Email:** santunukaysarmahin@gmail.com  
-  **🌍 Location:** Chittagong, Bangladesh  
-  **⏰ Timezone:** GMT+6  
+  **🌍 Location:** Chittagong, Bangladesh | **⏰ Timezone:** GMT+6
 
 </div>
 
@@ -280,10 +191,9 @@ Coming Soon! 📚
 <div align="center">
 
 ### 💭 **Random Dev Quote**
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-<br><br>
+<br>
 
 ### 🎯 My Coding Philosophy
 
@@ -292,37 +202,12 @@ const philosophy = {
   code: "Write clean, readable, and self-explanatory code",
   design: "Build scalable and maintainable systems",
   learning: "Every bug is a lesson, every feature is growth",
-  collaboration: "Great software is built by great teams",
-  mindset: "Simplicity, efficiency, and long-term impact"
+  collaboration: "Great software is built by great teams"
 };
 
 console.log("Let’s build meaningful software together 🚀");
 ```
-
-<div align="center">
-
-**⚡ Fun Fact:** I debug with `console.log()` and I'm not ashamed of it! 😄
-
-<br>
-
-### 📊 **This Week I Spent My Time On**
-
-```text
-Python       ████████████░░░░░░░░░   60%
-JavaScript   ████░░░░░░░░░░░░░░░░░   20%
-SQL          ██░░░░░░░░░░░░░░░░░░░   10%
-Other        ██░░░░░░░░░░░░░░░░░░░   10%
-```
-
-<br>
-
----
-
-<sub>⭐ **From [SantunuMahin](https://github.com/SantunuMahin)** with 💙</sub>
-
-<sub>**Last Updated:** Auto-synced with GitHub Actions ⚡</sub>
-
-<br>
+<sub>⭐ From SantunuMahin with 💙</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18,24&height=150&section=footer" width="100%"/>
 
