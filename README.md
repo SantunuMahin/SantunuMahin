@@ -22,7 +22,7 @@
     </tr>
   </table>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Building+Scalable+Systems+%F0%9F%9A%80;Solving+Complex+Algorithms+%F0%9F%A7%A0;Crafting+Elegant+Code+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=CS+Student+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%A7%A0;Backend+Developer+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing Animation" />
 </div>
 
 ---
@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,django,fastapi,react,nextjs,postgres,mongodb,docker,aws,git,linux,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,django,postgres,docker,git,linux,vscode&perline=8" />
 </div>
 
 ---
@@ -87,16 +87,16 @@
 <div align="center">
 
 ```javascript
-const santunu = {
-  status: "Open for Opportunities",
-  specialization: ["Web Architecture", "DSA"],
-  currentFocus: "Advanced System Design",
-  funFact: "I debug code faster than I cook instant noodles!"
-};
-
-if (you.wantToCollaborate()) {
-  santunu.contact('santunukaysarmahin@gmail.com');
-}
+        const santunu = {
+          status: "Open for Opportunities",
+          specialization: ["Web Architecture", "DSA"],
+          currentFocus: "Advanced System Design",
+          funFact: "I debug code faster than I cook instant noodles!"
+        };
+        
+        if (you.wantToCollaborate()) {
+          santunu.contact('santunukaysarmahin@gmail.com');
+        }
 ```
 <a href="https://leetcode.com/u/santunukaysarmahin/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack"/></a> <a href="https://www.hackerrank.com/profile/santunukaysarma1"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HackerRank-00EA64%3Fstyle%3Dfor-the-badge%26logo%3Dhackerrank%26logoColor%3Dblack"/></a>
 
