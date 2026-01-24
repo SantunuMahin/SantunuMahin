@@ -1,148 +1,111 @@
-# 🚀 Santunu Kaysar Mahin
+# Santunu Kaysar Mahin
+#### Full Stack Engineer | Problem Solver | System Architect
+
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18,24&height=280&section=header&text=Santunu%20Kaysar&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Problem%20Solver%20%7C%20System%20Architect&descSize=25&descAlignY=55" width="100%"/>
+  ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0088CC&height=200&section=header&text=Santunu%20Kaysar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20System%20Architect&descSize=20&descAlignY=65)
 
+  <img src="https://github.com/SantunuMahin.png" width="140" style="border-radius: 50%; border: 4px solid #00D4AA; margin: 20px 0;"/>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=SantunuMahin&label=Profile%20Views&color=0088CC&style=flat" alt="Profile Views" />
+  </p>
+
+  <h3>Hello! I'm a Full-Stack Developer and Competitive Programmer</h3>
+  <p>I specialize in building scalable applications with efficient algorithms and clean architecture.</p>
+
+  <div align="center" style="margin: 25px 0;">
+    <a href="https://mskm.pythonanywhere.com/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/santunu-kaysar-mahin">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:santunukaysarmahin@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/SantunuMahin">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    </a>
+  </div>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,django,postgres,docker,git,linux,vscode&perline=6" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
   <table>
     <tr>
-      <td align="center" width="30%">
-        <img src="https://github.com/SantunuMahin.png" width="200px" style="border-radius: 50%; border: 3px solid #00D4AA;"/>
-        <br/><br/>
-        <img src="https://komarev.com/ghpvc/?username=SantunuMahin&label=Profile%20Views&color=00D4AA&style=flat-square" alt="Views" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SantunuMahin&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0088CC&icon_color=00D4AA" width="400"/>
       </td>
-      <td width="70%">
-        <h3>👋 Hello World!</h3>
-        <p>I am a <b>Full-Stack Developer</b> and <b>Competitive Programmer</b> who thrives on turning complex problems into elegant, scalable code. With a deep foundation in algorithms and a passion for system design, I build applications that are as efficient under the hood as they are smooth on the surface.</p>
-        <div align="left">
-          <a href="https://mskm.pythonanywhere.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-          <a href="https://www.linkedin.com/in/santunu-kaysar-mahin"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-          <a href="mailto:santunukaysarmahin@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-        </div>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantunuMahin&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0088CC" width="350"/>
       </td>
     </tr>
   </table>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=CS+Student+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%A7%A0;Backend+Developer+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing Animation" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantunuMahin&theme=github&bg_color=00000000&color=0088CC&line=00D4AA&point=FFFFFF&hide_border=true" width="90%"/>
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Featured Projects
+
+### ServerCodeSociety
+A high-performance community platform for developers with real-time collaboration features.
+- **Tech:** Django, REST Framework, PostgreSQL
+- [Live Demo](https://servercodesociety.pythonanywhere.com/) | [Source](https://github.com/SantunuMahin/ServerCodeSociety)
+
+### Algorithm Vault
+Collection of optimized LeetCode solutions with detailed explanations.
+- **Progress:** 150+ problems solved
+- **Languages:** C++, Python, Java
+- [Explore Solutions](https://github.com/SantunuMahin/Daily_Problem.git)
+
+---
+
+## 🏆 Coding Profiles
+
+<div align="center" style="margin: 20px 0;">
+  <a href="https://leetcode.com/u/santunukaysarmahin/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/santunukaysarma1">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/santunu">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing exciting opportunities, collaborations, or interesting tech challenges.
+
+**Specializations:**
+- Web Architecture & System Design
+- Data Structures & Algorithms
+- Performance Optimization
+- Scalable Backend Systems
+
+**Currently focusing on:** JavaScript/TypeScript, Node.js, React, AWS, and Microservices
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,django,postgres,docker,git,linux,vscode&perline=8" />
+  <p><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0088CC&height=80&section=footer&animation=fadeIn" width="100%"/>
 </div>
-
----
-
-## 🎯 Featured Projects
-
-### 🏆 **ServerCodeSociety**
-> *A high-performance community platform for developers.*
-- **Backend:** Django with REST Framework & PostgreSQL.
-- **Key Features:** Real-time collaboration, OAuth2 Auth, and Problem-Solving Modules.
-- [**Live Demo**](https://servercodesociety.pythonanywhere.com/) | [**Source Code**](https://github.com/SantunuMahin/ServerCodeSociety)
-
-### 🧠 **Algorithm Vault (LeetCode)**
-> *Comprehensive collection of solutions with a focus on optimization.*
-- **Progress:** 150+ Solved Problems across arrays, graphs, and dynamic programming.
-- **Tech:** C++, Python, Java.
-- [**Explore Repository**](https://github.com/SantunuMahin/Daily_Problem.git)
-
----
-
-## 📊 GitHub Ecosystem
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=SantunuMahin&show_icons=true&theme=radical&bg_color=000&title_color=00D4AA&icon_color=00D4AA&hide_border=true" width="400px"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantunuMahin&layout=compact&theme=radical&bg_color=000&title_color=00D4AA&hide_border=true" width="400px"/></td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantunuMahin&theme=react-dark&bg_color=000&color=00D4AA&line=00D4AA&point=FFFFFF&hide_border=true" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🐍 Contribution Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantunuMahin/SantunuMahin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantunuMahin/SantunuMahin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SantunuMahin/SantunuMahin/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
----
-
-## 🏆 Achievements & Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SantunuMahin&theme=radical&no-frame=true&row=1&column=7" width="100%"/>
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-### 🚀 **Always Open for Exciting Opportunities & Collaborations**
-
----
-
-### 🎯 **Specialization & Focus**
-**Web Architecture** • **Data Structures & Algorithms** • **Scalable Systems**  
-**Advanced System Design** • **Performance Optimization**
-
----
-
-### 🛠️ **Tech Stack**
-**JavaScript/TypeScript** • **Node.js** • **React** • **AWS** • **Docker** • **Microservices**
-
----
-
-### 📫 **Get in Touch**
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 25px 0;">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santunukaysarmahin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santunu)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santunu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://santunu.dev)
-
-</div>
-
----
-
-### 🏆 **Coding Profiles**
-
-<div align="center" style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/santunukaysarmahin/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/santunukaysarma1)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/santunu)
-
-</div>
-
----
-
-### 💡 **Fun Fact**
-> "I debug production issues faster than I cook instant noodles! ⚡"
-
-### 🌟 **Current Mission**
-> "Turning complex problems into elegant solutions — one line at a time."
-
----
-
-**Let's build something amazing together!** 🚀
-
-</div>
-
-<div align="center">
-
-
-⭐️ <i>"Code is like humor. When you have to explain it, it's bad."</i>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/> </div>
