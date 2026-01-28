@@ -139,33 +139,84 @@ Tech Stack: Django REST Framework | PostgreSQL | Docker | Redis
 Focus: Resource optimization | Real-time collaboration | OAuth2
 Status: Active Development
 ```
-<div align="center">
-  
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0088CC&height=200&section=header&text=Santunu%20Kaysar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Building%20Scalable%20Systems%20%7C%20Sustainable%20Solutions&descSize=20&descAlignY=65)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://mskm.pythonanywhere.com/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantunuMahin/ServerCodeSociety)
 
-  <img src="https://github.com/SantunuMahin.png" width="140" style="border-radius: 50%; border: 4px solid #00D4AA; margin: 20px 0;"/>
+---
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SantunuMahin&label=Profile%20Views&color=0088CC&style=flat" alt="Profile Views" />
-  </p>
+## 📚 Algorithm Vault
+**Comprehensive algorithmic solutions with sustainability focus**
 
-  <h3>👋 Hello! I'm Santunu</h3>
-  <p>CS student passionate about building efficient systems, solving complex problems, and creating technology that makes a positive impact. I believe in writing clean code that's both performant and sustainable.</p>
+```yaml
+Problems: 150+ across LeetCode, Codeforces, HackerRank
+Approach: Memory-efficient | Time-optimized | Clean implementations
+Languages: C++ (Primary) | Python | Java
+```
+[![Explore Repository](https://img.shields.io/badge/Explore_Repository-0088CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantunuMahin/Algorithm-Vault)
 
-  <div align="center" style="margin: 25px 0;">
-    <a href="https://mskm.pythonanywhere.com/">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/santunu-kaysar-mahin">
-      <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:santunukaysarmahin@gmail.com">
-      <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://github.com/SantunuMahin">
-      <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </div>
+## 🌱 Sustainable Technology Philosophy
+
+<div align="center" style="background: linear-gradient(135deg, #00D4AA10, #00A3E610); padding: 30px; border-radius: 20px; margin: 30px 0;">
+
+### ♻️ Building Technology That Cares
+
+| Principle | Implementation |
+|-----------|----------------|
+| **Energy Efficiency** | Algorithm optimization, Resource-aware design |
+| **Scalable Sustainability** | Systems that grow efficiently without waste |
+| **Clean Code** | Maintainable, documented, reusable solutions |
+| **Environmental Impact** | Conscious resource utilization decisions |
+
+> *"We don't inherit the earth from our ancestors; we borrow it from our children."*  
+> – Building technology that honors this responsibility.
+
 </div>
 
 ---
+
+## 📬 Let's Collaborate
+
+I'm actively seeking opportunities to work on meaningful projects at the intersection of technology and sustainability.
+
+**Areas of Expertise:**
+- Algorithm Design & Optimization
+- Backend System Architecture
+- Performance Tuning & Scalability
+- Sustainable Software Development
+
+**Looking For:**
+- Research collaborations in sustainable computing
+- Internship opportunities in backend development
+- Open-source contributions with environmental impact
+- Hackathons focusing on sustainability
+
+<div align="center" style="margin: 40px 0;">
+  <a href="mailto:santunukaysarmahin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📫_Let's_Talk-00D4AA?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact"/>
+  </a>
+  <a href="https://www.linkedin.com/in/santunu-kaysar-mahin" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0088CC&height=100&section=footer&reversal=true&text=Crafting%20Sustainable%20Digital%20Solutions%20🚀&fontSize=20&fontColor=fff&animation=fadeIn" width="100%"/>
+
+<p style="margin-top: 20px; color: #666;">
+  <i>Thanks for visiting! Let's build a better digital future together.</i>
+</p>
+
+</div>
+
+<!-- Animation CSS -->
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 0.6; }
+  50% { transform: scale(1.05); opacity: 0.3; }
+  100% { transform: scale(1); opacity: 0.6; }
+}
+</style>
