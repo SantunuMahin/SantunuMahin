@@ -46,7 +46,7 @@ class SantunuKaysarMahin:
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/santunukaysarmahin?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/shantanumahin/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shantanumahin?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/shantanumahin/)
 
 </div>
 
