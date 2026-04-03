@@ -46,32 +46,36 @@ class SantunuKaysarMahin:
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shantanumahin?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/shantanumahin/)
+### Platforms
+
+| | LeetCode | Codeforces | CodeChef |
+|:---:|:---:|:---:|:---:|
+| **Profile** | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shantanumahin/) | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/the-envy) | [![CodeChef](https://img.shields.io/badge/CodeChef-2EC866?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mr_envy_101) |
+| **Status** | 150+ Problems Solved | Active Contestant | Active Contestant |
+| **Focus** | Arrays · DP · Graphs | Div. 3 & Div. 4 | 1⭐ Problem Solving |
 
 </div>
 
-<div align="center">
+---
 
-| 🟡 LeetCode | 🔵 Codeforces | 🟢 CodeChef |
-|:---:|:---:|:---:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/u/santunukaysarmahin/](https://leetcode.com/u/shantanumahin/)) | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/the-envy) | [![CodeChef](https://img.shields.io/badge/dynamic/json?color=2EC866&label=CodeChef&query=rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/mr_envy_101&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.codechef.com/users/mr_envy_101)
-| 150+ Problems Solved | Active Contestant | Active Contestant |
-| Arrays · DP · Graphs | Div. 3 & Div. 4 | 1⭐ Problem Solving |
-
-</div>
-
-### 🧩 Problem Solving Breakdown
-
-```
+### 📊 Problem Solving Breakdown
+```text
 Data Structures   ████████████████████░░░░  80%
-Dynamic Prog.     ███████████████░░░░░░░░░  20%
-Graph Algorithms  ████████████░░░░░░░░░░░░  38%
 Greedy / Math     ██████████████░░░░░░░░░░  56%
 String Problems   █████████████░░░░░░░░░░░  52%
+Graph Algorithms  ████████████░░░░░░░░░░░░  38%
+Dynamic Prog.     █████░░░░░░░░░░░░░░░░░░░  20%
 ```
 
 ---
 
+### 🔥 LeetCode Activity
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shantanumahin?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/shantanumahin/)
+
+</div>
 ## 🛠️ Tech Stack
 
 **Languages**
