@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B35,30:F7C948,60:00D4AA,100:6C63FF&height=240&section=header&text=Santunu%20Kaysar%20Mahin&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Competitive%20Programmer%20%7C%20Backend%20Developer&descSize=20&descAlignY=62&stroke=ffffff&strokeWidth=1" width="300%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B35,30:F7C948,60:00D4AA,100:6C63FF&height=240&section=header&text=Santunu%20Kaysar%20Mahin&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Competitive%20Programmer%20%7C%20Backend%20Developer&descSize=20&descAlignY=62&stroke=ffffff&strokeWidth=1" width="1000%"/>
 
 <div align="center">
 
@@ -42,7 +42,7 @@ class SantunuKaysarMahin:
 
 ---
 
-### ⚡ Coding Activity
+### ⚡ LeetCode Activity
 
 <div align="center">
 
@@ -53,22 +53,6 @@ class SantunuKaysarMahin:
         <img src="https://leetcard.jacoblin.cool/shantanumahin?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats" height="200" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://codeforces.com/profile/the-envy">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?user=the-envy&theme=dark&show_icons=true&border=0" alt="Codeforces Stats" height="200" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.codechef.com/users/mr_envy_101">
-        <img src="https://cp-logo.vercel.app/codechef/mr_envy_101" alt="CodeChef Rating" height="200" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub>🟡 LeetCode</sub></td>
-    <td align="center"><sub>🔵 Codeforces</sub></td>
-    <td align="center"><sub>🟢 CodeChef</sub></td>
-  </tr>
 </table>
 
 </div>
