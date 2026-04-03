@@ -54,9 +54,9 @@ class SantunuKaysarMahin:
 
 | 🟡 LeetCode | 🔵 Codeforces | 🟢 CodeChef |
 |:---:|:---:|:---:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/u/santunukaysarmahin/](https://leetcode.com/u/shantanumahin/)) | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/the-envy) | [![CodeChef](https://img.shields.io/badge/CodeChef-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.codechef.com/users/mr_envy_101)
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/u/santunukaysarmahin/](https://leetcode.com/u/shantanumahin/)) | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/the-envy) | [![CodeChef](https://img.shields.io/badge/CodeChef-⭐%20XXXX-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.codechef.com/users/mr_envy_101)
 | 150+ Problems Solved | Active Contestant | Active Contestant |
-| Arrays · DP · Graphs | Div. 3 & Div. 4 | 2⭐ Problem Solving |
+| Arrays · DP · Graphs | Div. 3 & Div. 4 | 1⭐ Problem Solving |
 
 </div>
 
