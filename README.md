@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B35,30:F7C948,60:00D4AA,100:6C63FF&height=240&section=header&text=Santunu%20Kaysar%20Mahin&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Competitive%20Programmer%20%7C%20Backend%20Developer&descSize=20&descAlignY=62&stroke=ffffff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B35,30:F7C948,60:00D4AA,100:6C63FF&height=240&section=header&text=Santunu%20Kaysar%20Mahin&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Competitive%20Programmer%20%7C%20Backend%20Developer&descSize=20&descAlignY=62&stroke=ffffff&strokeWidth=1" width="300%"/>
 
 <div align="center">
 
@@ -64,8 +64,8 @@ class SantunuKaysarMahin:
 
 ```
 Data Structures   ████████████████████░░░░  80%
-Dynamic Prog.     ███████████████░░░░░░░░░  60%
-Graph Algorithms  ████████████░░░░░░░░░░░░  48%
+Dynamic Prog.     ███████████████░░░░░░░░░  20%
+Graph Algorithms  ████████████░░░░░░░░░░░░  38%
 Greedy / Math     ██████████████░░░░░░░░░░  56%
 String Problems   █████████████░░░░░░░░░░░  52%
 ```
