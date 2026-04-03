@@ -42,75 +42,41 @@ class SantunuKaysarMahin:
 
 ---
 
-To make this look truly modern and high-end, we should focus on alignment (side-by-side cards) and visual progress tracking.
-
-Here is the "Modern Tech Dashboard" version of your profile:
-
-code
-Markdown
-download
-content_copy
-expand_less
 ### ⚡ Coding Activity
 
 <div align="center">
-  <!-- Side-by-side Stats Layout -->
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://leetcode.com/u/shantanumahin/">
-          <img src="https://leetcard.jacoblin.cool/shantanumahin?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://codeforces.com/profile/the-envy">
-          <img src="https://codeforces-readme-stats.vercel.app/api/card?user=the-envy&theme=dark" alt="Codeforces" />
-        </a>
-      </td>
-    </tr>
-  </table>
 
-  <!-- Wide Banner for CodeChef -->
-  <a href="https://www.codechef.com/users/mr_envy_101">
-    <img src="https://cp-logo.vercel.app/codechef/mr_envy_101" width="500" />
-  </a>
+<table border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/shantanumahin/">
+        <img src="https://leetcard.jacoblin.cool/shantanumahin?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats" height="200" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/the-envy">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?user=the-envy&theme=dark&show_icons=true&border=0" alt="Codeforces Stats" height="200" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/mr_envy_101">
+        <img src="https://cp-logo.vercel.app/codechef/mr_envy_101" alt="CodeChef Rating" height="200" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub>🟡 LeetCode</sub></td>
+    <td align="center"><sub>🔵 Codeforces</sub></td>
+    <td align="center"><sub>🟢 CodeChef</sub></td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### 📚 Currently Reading
-*Deepening my knowledge in algorithms and problem solving.*
-
-<div align="center">
-
-| Status | Resource | Domain | Progress |
-| :--- | :--- | :---: | :--- |
-| 📘 | **Introduction to Algorithms** | `ALGO` | ![25%](https://geps.dev/progress/25?dangerColor=1F8ACB&warningColor=1F8ACB&successColor=1F8ACB) |
-| 📗 | **Competitive Programmer's Handbook** | `CP` | ![65%](https://geps.dev/progress/65?dangerColor=FFA116&warningColor=FFA116&successColor=FFA116) |
-| 📙 | **The Art of Problem Solving** | `MATH` | ![40%](https://geps.dev/progress/40?dangerColor=2EC866&warningColor=2EC866&successColor=2EC866) |
-
-</div>
-
 <br/>
 
-<!-- Modern Tech Icons Footer -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,git,vscode,linux" />
-</p>
-Why this is better:
-
-Symmetry: By putting LeetCode and Codeforces inside a <table>, they sit side-by-side rather than creating a long vertical scroll. This looks much more like a "dashboard."
-
-Visual Progress: I replaced the text badges in the reading list with Dynamic Progress Bars (geps.dev). This shows exactly how far you are in each book at a glance.
-
-Color Sync: The progress bars are color-coded to match your original topic colors (Blue for Algos, Orange for CP, Green for Math).
-
-Bento Grid Style: The CodeChef banner sits centered underneath the two cards, creating a balanced visual triangle.
-
-Clean Footer: I added a "Skill Icons" bar at the bottom. It rounds out the profile and makes it look professional.
-
-How to update progress:
-In the reading section, simply change the number in the URL (e.g., change progress/25 to progress/30) to update the bar!
 
 
 ## 🏆 Competitive Programming
