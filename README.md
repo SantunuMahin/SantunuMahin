@@ -50,7 +50,7 @@ class SantunuKaysarMahin:
   <tr>
     <td align="center">
       <a href="https://leetcode.com/u/shantanumahin/">
-        <img src="https://leetcard.jacoblin.cool/shantanumahin?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats" height="200" />
+        <img src="https://leetcard.jacoblin.cool/shantanumahin?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats" height="1000" />
       </a>
     </td>
 </table>
