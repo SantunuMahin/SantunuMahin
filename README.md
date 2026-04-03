@@ -42,6 +42,33 @@ class SantunuKaysarMahin:
 
 ---
 
+### 🔥 Coding Activity
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shantanumahin?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/shantanumahin/)
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?user=the-envy&theme=dark&show_icons=true&border=0)](https://codeforces.com/profile/the-envy)
+
+[![CodeChef Stats](https://cp-logo.vercel.app/codechef/mr_envy_101)](https://www.codechef.com/users/mr_envy_101)
+
+</div>
+
+---
+
+### 📚 Currently Reading
+
+<div align="center">
+
+| Book | Author | Topic |
+|:---|:---|:---:|
+| *Introduction to Algorithms* | Cormen, Leiserson, Rivest, Stein | ![Algorithms](https://img.shields.io/badge/Algorithms-1F8ACB?style=flat-square&logoColor=white) |
+| *Competitive Programmer's Handbook* | Antti Laaksonen | ![CP](https://img.shields.io/badge/Competitive%20Programming-FFA116?style=flat-square&logoColor=black) |
+| *The Art of Problem Solving Vol. 1* | Rusczyk & Lehoczky | ![Math](https://img.shields.io/badge/Mathematics-2EC866?style=flat-square&logoColor=white) |
+
+</div>
+
+
 ## 🏆 Competitive Programming
 
 <div align="center">
@@ -69,13 +96,7 @@ Dynamic Prog.     █████░░░░░░░░░░░░░░░�
 
 ---
 
-### 🔥 LeetCode Activity
 
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shantanumahin?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/shantanumahin/)
-
-</div>
 ## 🛠️ Tech Stack
 
 **Languages**
